@@ -32,6 +32,7 @@ markers:
   - {type: indent, offset: 11, content: 　　　, id: KR4e0155_krp_003-bkkind6}
   - {type: substitution, offset: 15, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 19, content: (, id: KR4e0155_krp_003-bkkpn1}
+  - {type: voice, offset: 19, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 25, content: /, id: KR4e0155_krp_003-bkkpn2}
   - {type: punctuation, offset: 25, content: ), id: KR4e0155_krp_003-bkkpn3}
   - {type: 'kr:newline', offset: 25, content: '
@@ -216,6 +217,7 @@ markers:
   - {type: line-break, offset: 755, content: '', id: KR4e0155_WYG_003-3b01}
   - {type: indent, offset: 755, content: 　　　, id: KR4e0155_krp_003-bkkind7}
   - {type: punctuation, offset: 764, content: (, id: KR4e0155_krp_003-bkkpn4}
+  - {type: voice, offset: 764, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 771, content: /, id: KR4e0155_krp_003-bkkpn5}
   - {type: punctuation, offset: 771, content: ), id: KR4e0155_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 771, content: '
@@ -325,6 +327,7 @@ markers:
   - {type: line-break, offset: 1157, content: '', id: KR4e0155_WYG_003-4b05}
   - {type: indent, offset: 1157, content: 　　　, id: KR4e0155_krp_003-bkkind8}
   - {type: punctuation, offset: 1172, content: (, id: KR4e0155_krp_003-bkkpn7}
+  - {type: voice, offset: 1172, length: 8, name: note, id: n3}
   - {type: substitution, offset: 1174, original: 廵, replacement: 巡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16441}}
   - {type: punctuation, offset: 1175, content: /, id: KR4e0155_krp_003-bkkpn8}
   - {type: punctuation, offset: 1178, content: ), id: KR4e0155_krp_003-bkkpn9}
@@ -1278,4 +1281,4 @@ markers:
 
       ', id: KR4e0155_krp_003-bkkkrnewl269}
   back: []
-hash: sha256:963d0b0ad4618272a0711791948cd9d2117f95c9a60ff976905aeeac7c088a93
+hash: sha256:5e8bf96a8221f17ccda98943ac48dd92a1cdb918017cbed8c87db84bed67911d
